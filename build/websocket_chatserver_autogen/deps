@@ -1,12 +1,11 @@
 websocket_chatserver_autogen/timestamp: \
 	/home/aalprn/dev/websocket_chatserver/CMakeLists.txt \
-	/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/3.30.5/CMakeCCompiler.cmake \
 	/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
 	/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	/home/aalprn/dev/websocket_chatserver/build/websocket_chatserver_autogen/moc_predefs.h \
+	/home/aalprn/dev/websocket_chatserver/chatserver.cpp \
 	/home/aalprn/dev/websocket_chatserver/include/chatserver.h \
-	/home/aalprn/dev/websocket_chatserver/src/chatserver.cpp \
-	/home/aalprn/dev/websocket_chatserver/src/main.cpp \
+	/home/aalprn/dev/websocket_chatserver/main.cpp \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
 	/usr/include/asm/errno.h \
@@ -420,7 +419,6 @@ websocket_chatserver_autogen/timestamp: \
 	/usr/lib64/cmake/Qt6WebSockets/Qt6WebSocketsTargets-relwithdebinfo.cmake \
 	/usr/lib64/cmake/Qt6WebSockets/Qt6WebSocketsTargets.cmake \
 	/usr/lib64/cmake/Qt6WebSockets/Qt6WebSocketsVersionlessTargets.cmake \
-	/usr/share/cmake/Modules/CMakeCInformation.cmake \
 	/usr/share/cmake/Modules/CMakeCXXInformation.cmake \
 	/usr/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake \
@@ -430,13 +428,11 @@ websocket_chatserver_autogen/timestamp: \
 	/usr/share/cmake/Modules/CMakeLanguageInformation.cmake \
 	/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake \
 	/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake \
-	/usr/share/cmake/Modules/CheckCSourceCompiles.cmake \
 	/usr/share/cmake/Modules/CheckCXXCompilerFlag.cmake \
 	/usr/share/cmake/Modules/CheckCXXSourceCompiles.cmake \
-	/usr/share/cmake/Modules/CheckIncludeFile.cmake \
+	/usr/share/cmake/Modules/CheckIncludeFileCXX.cmake \
 	/usr/share/cmake/Modules/CheckLibraryExists.cmake \
 	/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	/usr/share/cmake/Modules/Compiler/GNU-C.cmake \
 	/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake \
 	/usr/share/cmake/Modules/Compiler/GNU.cmake \
 	/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
@@ -446,7 +442,6 @@ websocket_chatserver_autogen/timestamp: \
 	/usr/share/cmake/Modules/Internal/CheckCompilerFlag.cmake \
 	/usr/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake \
 	/usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake \
-	/usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake \
 	/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake \
 	/usr/share/cmake/Modules/Platform/Linux-GNU.cmake \
 	/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake \

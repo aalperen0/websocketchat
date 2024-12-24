@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "websocket_chatserver_autogen/timestamp" "custom" "websocket_chatserver_autogen/deps"
-  "/home/aalprn/dev/websocket_chatserver/src/chatserver.cpp" "CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o" "gcc" "CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o.d"
-  "/home/aalprn/dev/websocket_chatserver/src/main.cpp" "CMakeFiles/websocket_chatserver.dir/src/main.cpp.o" "gcc" "CMakeFiles/websocket_chatserver.dir/src/main.cpp.o.d"
+  "/home/aalprn/dev/websocket_chatserver/chatserver.cpp" "CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o" "gcc" "CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o.d"
+  "/home/aalprn/dev/websocket_chatserver/main.cpp" "CMakeFiles/websocket_chatserver.dir/main.cpp.o" "gcc" "CMakeFiles/websocket_chatserver.dir/main.cpp.o.d"
   "/home/aalprn/dev/websocket_chatserver/build/websocket_chatserver_autogen/mocs_compilation.cpp" "CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilation.cpp.o.d"
   )
 

@@ -89,46 +89,46 @@ CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilatio
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilation.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aalprn/dev/websocket_chatserver/build/websocket_chatserver_autogen/mocs_compilation.cpp -o CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilation.cpp.s
 
-CMakeFiles/websocket_chatserver.dir/src/main.cpp.o: CMakeFiles/websocket_chatserver.dir/flags.make
-CMakeFiles/websocket_chatserver.dir/src/main.cpp.o: /home/aalprn/dev/websocket_chatserver/src/main.cpp
-CMakeFiles/websocket_chatserver.dir/src/main.cpp.o: CMakeFiles/websocket_chatserver.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/aalprn/dev/websocket_chatserver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/websocket_chatserver.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/websocket_chatserver.dir/src/main.cpp.o -MF CMakeFiles/websocket_chatserver.dir/src/main.cpp.o.d -o CMakeFiles/websocket_chatserver.dir/src/main.cpp.o -c /home/aalprn/dev/websocket_chatserver/src/main.cpp
+CMakeFiles/websocket_chatserver.dir/main.cpp.o: CMakeFiles/websocket_chatserver.dir/flags.make
+CMakeFiles/websocket_chatserver.dir/main.cpp.o: /home/aalprn/dev/websocket_chatserver/main.cpp
+CMakeFiles/websocket_chatserver.dir/main.cpp.o: CMakeFiles/websocket_chatserver.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/aalprn/dev/websocket_chatserver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/websocket_chatserver.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/websocket_chatserver.dir/main.cpp.o -MF CMakeFiles/websocket_chatserver.dir/main.cpp.o.d -o CMakeFiles/websocket_chatserver.dir/main.cpp.o -c /home/aalprn/dev/websocket_chatserver/main.cpp
 
-CMakeFiles/websocket_chatserver.dir/src/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/websocket_chatserver.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aalprn/dev/websocket_chatserver/src/main.cpp > CMakeFiles/websocket_chatserver.dir/src/main.cpp.i
+CMakeFiles/websocket_chatserver.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/websocket_chatserver.dir/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aalprn/dev/websocket_chatserver/main.cpp > CMakeFiles/websocket_chatserver.dir/main.cpp.i
 
-CMakeFiles/websocket_chatserver.dir/src/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/websocket_chatserver.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aalprn/dev/websocket_chatserver/src/main.cpp -o CMakeFiles/websocket_chatserver.dir/src/main.cpp.s
+CMakeFiles/websocket_chatserver.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/websocket_chatserver.dir/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aalprn/dev/websocket_chatserver/main.cpp -o CMakeFiles/websocket_chatserver.dir/main.cpp.s
 
-CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o: CMakeFiles/websocket_chatserver.dir/flags.make
-CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o: /home/aalprn/dev/websocket_chatserver/src/chatserver.cpp
-CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o: CMakeFiles/websocket_chatserver.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/aalprn/dev/websocket_chatserver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o -MF CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o.d -o CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o -c /home/aalprn/dev/websocket_chatserver/src/chatserver.cpp
+CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o: CMakeFiles/websocket_chatserver.dir/flags.make
+CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o: /home/aalprn/dev/websocket_chatserver/chatserver.cpp
+CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o: CMakeFiles/websocket_chatserver.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/aalprn/dev/websocket_chatserver/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o -MF CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o.d -o CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o -c /home/aalprn/dev/websocket_chatserver/chatserver.cpp
 
-CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aalprn/dev/websocket_chatserver/src/chatserver.cpp > CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.i
+CMakeFiles/websocket_chatserver.dir/chatserver.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/websocket_chatserver.dir/chatserver.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aalprn/dev/websocket_chatserver/chatserver.cpp > CMakeFiles/websocket_chatserver.dir/chatserver.cpp.i
 
-CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aalprn/dev/websocket_chatserver/src/chatserver.cpp -o CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.s
+CMakeFiles/websocket_chatserver.dir/chatserver.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/websocket_chatserver.dir/chatserver.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aalprn/dev/websocket_chatserver/chatserver.cpp -o CMakeFiles/websocket_chatserver.dir/chatserver.cpp.s
 
 # Object files for target websocket_chatserver
 websocket_chatserver_OBJECTS = \
 "CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilation.cpp.o" \
-"CMakeFiles/websocket_chatserver.dir/src/main.cpp.o" \
-"CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o"
+"CMakeFiles/websocket_chatserver.dir/main.cpp.o" \
+"CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o"
 
 # External object files for target websocket_chatserver
 websocket_chatserver_EXTERNAL_OBJECTS =
 
 websocket_chatserver: CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilation.cpp.o
-websocket_chatserver: CMakeFiles/websocket_chatserver.dir/src/main.cpp.o
-websocket_chatserver: CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o
+websocket_chatserver: CMakeFiles/websocket_chatserver.dir/main.cpp.o
+websocket_chatserver: CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o
 websocket_chatserver: CMakeFiles/websocket_chatserver.dir/build.make
 websocket_chatserver: /usr/lib64/libQt6WebSockets.so.6.7.2
 websocket_chatserver: /usr/lib64/libQt6Network.so.6.7.2

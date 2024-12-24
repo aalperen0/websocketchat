@@ -7,14 +7,14 @@
 },
 {
   "directory": "/home/aalprn/dev/websocket_chatserver/build",
-  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_WEBSOCKETS_LIB -I/home/aalprn/dev/websocket_chatserver/build/websocket_chatserver_autogen/include -I/home/aalprn/dev/websocket_chatserver/include -isystem /usr/include/qt6/QtWebSockets -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles/websocket_chatserver.dir/src/main.cpp.o -c /home/aalprn/dev/websocket_chatserver/src/main.cpp",
-  "file": "/home/aalprn/dev/websocket_chatserver/src/main.cpp",
-  "output": "CMakeFiles/websocket_chatserver.dir/src/main.cpp.o"
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_WEBSOCKETS_LIB -I/home/aalprn/dev/websocket_chatserver/build/websocket_chatserver_autogen/include -I/home/aalprn/dev/websocket_chatserver/include -isystem /usr/include/qt6/QtWebSockets -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles/websocket_chatserver.dir/main.cpp.o -c /home/aalprn/dev/websocket_chatserver/main.cpp",
+  "file": "/home/aalprn/dev/websocket_chatserver/main.cpp",
+  "output": "CMakeFiles/websocket_chatserver.dir/main.cpp.o"
 },
 {
   "directory": "/home/aalprn/dev/websocket_chatserver/build",
-  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_WEBSOCKETS_LIB -I/home/aalprn/dev/websocket_chatserver/build/websocket_chatserver_autogen/include -I/home/aalprn/dev/websocket_chatserver/include -isystem /usr/include/qt6/QtWebSockets -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o -c /home/aalprn/dev/websocket_chatserver/src/chatserver.cpp",
-  "file": "/home/aalprn/dev/websocket_chatserver/src/chatserver.cpp",
-  "output": "CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o"
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_WEBSOCKETS_LIB -I/home/aalprn/dev/websocket_chatserver/build/websocket_chatserver_autogen/include -I/home/aalprn/dev/websocket_chatserver/include -isystem /usr/include/qt6/QtWebSockets -isystem /usr/include/qt6 -isystem /usr/include/qt6/QtCore -isystem /usr/lib64/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o -c /home/aalprn/dev/websocket_chatserver/chatserver.cpp",
+  "file": "/home/aalprn/dev/websocket_chatserver/chatserver.cpp",
+  "output": "CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o"
 }
 ]

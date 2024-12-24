@@ -155,53 +155,53 @@ websocket_chatserver_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver_autogen.dir/build.make CMakeFiles/websocket_chatserver_autogen.dir/build
 .PHONY : websocket_chatserver_autogen/fast
 
-src/chatserver.o: src/chatserver.cpp.o
-.PHONY : src/chatserver.o
+chatserver.o: chatserver.cpp.o
+.PHONY : chatserver.o
 
 # target to build an object file
-src/chatserver.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o
-.PHONY : src/chatserver.cpp.o
+chatserver.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/chatserver.cpp.o
+.PHONY : chatserver.cpp.o
 
-src/chatserver.i: src/chatserver.cpp.i
-.PHONY : src/chatserver.i
+chatserver.i: chatserver.cpp.i
+.PHONY : chatserver.i
 
 # target to preprocess a source file
-src/chatserver.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.i
-.PHONY : src/chatserver.cpp.i
+chatserver.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/chatserver.cpp.i
+.PHONY : chatserver.cpp.i
 
-src/chatserver.s: src/chatserver.cpp.s
-.PHONY : src/chatserver.s
+chatserver.s: chatserver.cpp.s
+.PHONY : chatserver.s
 
 # target to generate assembly for a file
-src/chatserver.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.s
-.PHONY : src/chatserver.cpp.s
+chatserver.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/chatserver.cpp.s
+.PHONY : chatserver.cpp.s
 
-src/main.o: src/main.cpp.o
-.PHONY : src/main.o
+main.o: main.cpp.o
+.PHONY : main.o
 
 # target to build an object file
-src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
+main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-src/main.i: src/main.cpp.i
-.PHONY : src/main.i
+main.i: main.cpp.i
+.PHONY : main.i
 
 # target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-src/main.s: src/main.cpp.s
-.PHONY : src/main.s
+main.s: main.cpp.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/websocket_chatserver.dir/build.make CMakeFiles/websocket_chatserver.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 websocket_chatserver_autogen/mocs_compilation.o: websocket_chatserver_autogen/mocs_compilation.cpp.o
 .PHONY : websocket_chatserver_autogen/mocs_compilation.o
@@ -238,12 +238,12 @@ help:
 	@echo "... websocket_chatserver_autogen"
 	@echo "... websocket_chatserver_autogen_timestamp_deps"
 	@echo "... websocket_chatserver"
-	@echo "... src/chatserver.o"
-	@echo "... src/chatserver.i"
-	@echo "... src/chatserver.s"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
+	@echo "... chatserver.o"
+	@echo "... chatserver.i"
+	@echo "... chatserver.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 	@echo "... websocket_chatserver_autogen/mocs_compilation.o"
 	@echo "... websocket_chatserver_autogen/mocs_compilation.i"
 	@echo "... websocket_chatserver_autogen/mocs_compilation.s"
