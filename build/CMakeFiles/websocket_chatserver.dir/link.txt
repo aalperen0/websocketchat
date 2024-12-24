@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/websocket_chatserver.dir/websocket_chatserver_autogen/mocs_compilation.cpp.o CMakeFiles/websocket_chatserver.dir/src/main.cpp.o CMakeFiles/websocket_chatserver.dir/src/chatserver.cpp.o -o websocket_chatserver  /usr/lib64/libQt6WebSockets.so.6.7.2 /usr/lib64/libQt6Network.so.6.7.2 /usr/lib64/libQt6Core.so.6.7.2

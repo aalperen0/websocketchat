@@ -1,0 +1,5 @@
+/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/websocket_chatserver.dir
+/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/edit_cache.dir
+/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/rebuild_cache.dir
+/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/websocket_chatserver_autogen_timestamp_deps.dir
+/home/aalprn/dev/websocket_chatserver/build/CMakeFiles/websocket_chatserver_autogen.dir

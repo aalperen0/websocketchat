@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_websocket_chatserver_FILE /home/aalprn/dev/websocket_chatserver/build/websocket_chatserver)
+set(__QT_DEPLOY_TARGET_websocket_chatserver_TYPE EXECUTABLE)
